@@ -11,7 +11,7 @@
 # 移植RK3399示例，其他RK3399可模仿
 # ============================================================================================================
 # 增加设备
-echo -e "\\ndefine Device/tvi_tvi3315a
+echo -e "\\ndefine Device/nanopc-t4
   DEVICE_VENDOR := Tvi
   DEVICE_MODEL := TVI3315A
   SOC := rk3399
